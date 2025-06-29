@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Boost My TikTok</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card">
+    <img src="https://via.placeholder.com/100" alt="Profile Pic" class="profile-pic">
+    <h1>@yourusername</h1>
+    <p class="bio">Luxury aesthetic | Preorders | Limited deals</p>
+    <div class="stats">
+      <span><strong>15k</strong> Followers</span>
+      <span><strong>300</strong> Posts</span>
+    </div>
+    <a href="https://www.tiktok.com/@yourusername" target="_blank" class="follow-btn">Follow on TikTok</a>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
